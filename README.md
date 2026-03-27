@@ -67,7 +67,7 @@ The ER diagram represents the conceptual design of the system. It shows the main
 ### Schema Diagram
 The schema diagram represents the final relational database structure after converting the conceptual design into implementation-ready tables.
 
-![Schema Diagram](diagrams/Schema Diagram.png)
+![Schema Diagram](diagrams/schema-diagram.png)
 
 ## How to Run
 1. Run `sql/schema.sql`
